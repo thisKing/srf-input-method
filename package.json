@@ -6,8 +6,8 @@
   },
   "engines": {
     "node": "22.x"
-  }
+  },
   "devDependencies": {
-    "vuepress": "1.9.7"
+    "vuepress": "2.0.0-rc.20"
   }
 }
