@@ -5,9 +5,9 @@
     "build": "vuepress build src"
   },
   "engines": {
-    "node": "22.x"
+    "node": ">=18.0.0"
   },
   "devDependencies": {
-    "vuepress": "2.0.0-rc.20"
+    "vuepress": "1.9.10"
   }
 }
